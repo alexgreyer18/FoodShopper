@@ -8,7 +8,7 @@ import Slider from "../components/slider";
 const Index = ()=> {
     
     return (
-    <div class="navbar">
+    <div>
         <Topbar/>
         <Navbar/>
         {/* <Slider/> */}

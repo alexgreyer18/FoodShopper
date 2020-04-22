@@ -7,8 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-// extracted by mini-css-extract-plugin
-module.exports = {"navbar":"navbar___jMOqh"};;
+// extracted by mini-css-extract-plugin;
     if (true) {
       var injectCss = function injectCss(prev, href) {
         var link = prev.cloneNode();
@@ -30,7 +29,7 @@ module.exports = {"navbar":"navbar___jMOqh"};;
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1587594933017");
+            injectCss(link, link.href.split("?")[0] + "?unix=1587596747234");
           });
       }
     }

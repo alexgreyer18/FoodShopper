@@ -1031,7 +1031,6 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 const Index = () => {
   return __jsx("div", {
-    class: "navbar",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -1073,9 +1072,7 @@ const Index = () => {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = {
-	"navbar": "navbar___jMOqh"
-};
+
 
 /***/ }),
 

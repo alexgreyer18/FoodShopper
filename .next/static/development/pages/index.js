@@ -982,7 +982,6 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 var Index = function Index() {
   return __jsx("div", {
-    "class": "navbar",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
