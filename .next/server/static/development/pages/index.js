@@ -116,221 +116,7 @@ const Footer = () => {
       lineNumber: 4,
       columnNumber: 5
     }
-  }, __jsx("footer", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    class: "footer-top",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 10
-    }
-  }, __jsx("div", {
-    class: "container",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 11
-    }
-  }, __jsx("div", {
-    class: "row",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9,
-      columnNumber: 12
-    }
-  }, __jsx("div", {
-    class: "col-md-3 footer-about wow fadeInUp",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 14
-    }
-  }, "About me"), __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 14
-    }
-  }, "My name is Kevin and I'll do your groceries. Stay home, safe with the people you love & care for.")), __jsx("div", {
-    class: "col-md-4 offset-md-1 footer-contact wow fadeInDown",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 13
-    }
-  }, __jsx("h3", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 14
-    }
-  }, "Contact"), __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18,
-      columnNumber: 20
-    }
-  }, __jsx("i", {
-    class: "fas fa-map-marker-alt",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18,
-      columnNumber: 23
-    }
-  }), " Montreal, Quebec, Canada"), __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 20
-    }
-  }, __jsx("i", {
-    class: "fas fa-phone",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 23
-    }
-  }), " Phone: (514)717-1022"), __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 20
-    }
-  }, __jsx("i", {
-    class: "fas fa-envelope",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 23
-    }
-  }), " Email: ", __jsx("a", {
-    href: "mailto:foodshopper@hotmail.com",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 62
-    }
-  }, "foodshopper@hotmail.com"))), __jsx("div", {
-    class: "col-md-4 footer-links wow fadeInUp",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22,
-      columnNumber: 22
-    }
-  }, __jsx("div", {
-    class: "row",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 23
-    }
-  }, __jsx("div", {
-    class: "col",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 24
-    }
-  }, __jsx("h3", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25,
-      columnNumber: 25
-    }
-  }, "Links"))), __jsx("div", {
-    class: "row",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 23
-    }
-  }, __jsx("div", {
-    class: "col-md-6",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 24
-    }
-  }, __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    class: "scroll-link",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 28
-    }
-  }, "Home")), __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    href: "#steps",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 28
-    }
-  }, "How it works")), __jsx("p", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    href: "#pricing",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 28
-    }
-  }, "Pricing"))))))))));
+  });
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -358,137 +144,9 @@ const Navbar = () => {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4,
-      columnNumber: 5
-    }
-  }, __jsx("header", {
-    id: "topNav",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6,
       columnNumber: 9
     }
-  }, __jsx("div", {
-    class: "full-container",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 13
-    }
-  }, __jsx("button", {
-    class: "btn btn-mobile",
-    "data-toggle": "collapse",
-    "data-target": ".nav-main-collapse",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 17
-    }
-  }, __jsx("i", {
-    class: "fa fa-bars",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 21
-    }
-  })), __jsx("a", {
-    class: "logo float-left",
-    href: "index.html",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15,
-      columnNumber: 17
-    }
-  }, __jsx("img", {
-    src: "../assets/images/FoodShopperBadge.png",
-    alt: "",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 21
-    }
-  })), __jsx("div", {
-    class: "navbar-collapse collapse float-right nav-main-collapse",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25,
-      columnNumber: 17
-    }
-  }, __jsx("nav", {
-    class: "nav-main",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26,
-      columnNumber: 21
-    }
-  }, __jsx("ul", {
-    id: "topMain",
-    class: "nav nav-pills nav-main",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38,
-      columnNumber: 25
-    }
-  }, __jsx("li", {
-    class: "dropdown",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 39,
-      columnNumber: 29
-    }
-  }, __jsx("a", {
-    class: "dropdown-toggle",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41,
-      columnNumber: 33
-    }
-  }, "HOME")), __jsx("li", {
-    class: "dropdown",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 45,
-      columnNumber: 29
-    }
-  }, __jsx("a", {
-    class: "dropdown-toggle",
-    href: "#pricing",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 47,
-      columnNumber: 33
-    }
-  }, "PRICING")), __jsx("li", {
-    class: "dropdown",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 51,
-      columnNumber: 29
-    }
-  }, __jsx("a", {
-    class: "dropdown-toggle",
-    href: "#form",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53,
-      columnNumber: 33
-    }
-  }, "DELIVERY FORM"))))))));
+  });
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Navbar);
@@ -518,119 +176,7 @@ const Slider = () => {
       lineNumber: 4,
       columnNumber: 5
     }
-  }, __jsx("section", {
-    id: "slider",
-    class: "fullheight",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 9
-    }
-  }, __jsx("div", {
-    class: "swiper-container",
-    "data-effect": "slide",
-    "data-autoplay": "false",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    class: "swiper-wrapper",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 17
-    }
-  }, __jsx("div", {
-    class: "swiper-slide",
-    style: "background-image: url('assets/images/grocery_index.jpg');",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 21
-    }
-  }, __jsx("div", {
-    class: "overlay dark-4",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 25
-    }
-  }), __jsx("div", {
-    class: "display-table",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 25
-    }
-  }, __jsx("div", {
-    class: "display-table-cell vertical-align-middle",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 29
-    }
-  }, __jsx("div", {
-    class: "container",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 33
-    }
-  }, __jsx("div", {
-    class: "row",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 37
-    }
-  }, __jsx("div", {
-    class: "text-center col-md-8 col-12 offset-md-2",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33,
-      columnNumber: 41
-    }
-  }, __jsx("h1", {
-    class: "bold font-raleway wow fadeInUp",
-    "data-wow-delay": "0.4s",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 45
-    }
-  }, "WELCOME TO FOODSHOPPER"), __jsx("p", {
-    class: "lead font-lato fw-300 hidden-xs-down wow fadeInUp",
-    "data-wow-delay": "0.6s",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 36,
-      columnNumber: 45
-    }
-  }, "Stay home, stay safe, let me do the groceries for you."), __jsx("a", {
-    class: "btn btn-default btn-lg wow fadeIn hvr-icon-down",
-    "data-wow-delay": "1.5s",
-    href: "#steps",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 37,
-      columnNumber: 45
-    }
-  }, "SEE HOW IT WORKS")))))))))));
+  });
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Slider);
@@ -660,343 +206,78 @@ const Topbar = () => {
       lineNumber: 4,
       columnNumber: 5
     }
-  }, __jsx("div", {
-    id: "topBar",
+  }, __jsx("ul", {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5,
       columnNumber: 9
     }
-  }, __jsx("div", {
+  }, __jsx("li", {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
-      columnNumber: 9
+      columnNumber: 13
     }
-  }, __jsx("ul", {
-    class: "top-links list-inline float-right",
+  }, "FAQ"), __jsx("div", {
+    className: "dropdown",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9,
       columnNumber: 13
     }
-  }, __jsx("li", {
-    class: "text-welcome hidden-xs-down",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 17
-    }
-  }, "Welcome to FoodShopper, ", __jsx("strong", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 81
-    }
-  }, "Benjamin")), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    class: "dropdown-toggle no-text-underline",
+  }, __jsx("button", {
+    className: "btn btn-secondary dropdown-toggle",
+    type: "button",
+    id: "dropdownMenuButton",
     "data-toggle": "dropdown",
-    href: "#",
+    "aria-haspopup": "true",
+    "aria-expanded": "false",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 21
+      lineNumber: 10,
+      columnNumber: 17
     }
-  }, __jsx("i", {
-    class: "fa fa-user hidden-xs-down",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 12,
-      columnNumber: 99
-    }
-  }), " MY ACCOUNT"), __jsx("ul", {
-    class: "dropdown-menu float-right",
+  }, "Dropdown button"), __jsx("div", {
+    className: "dropdown-menu",
+    "aria-labelledby": "dropdownMenuButton",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13,
-      columnNumber: 21
-    }
-  }, __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14,
-      columnNumber: 25
+      columnNumber: 17
     }
   }, __jsx("a", {
-    tabindex: "-1",
+    className: "dropdown-item",
     href: "#",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14,
-      columnNumber: 29
+      columnNumber: 21
     }
-  }, __jsx("i", {
-    class: "fa fa-history",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14,
-      columnNumber: 55
-    }
-  }), " ORDER HISTORY")), __jsx("li", {
-    class: "divider",
+  }, "Action"), __jsx("a", {
+    className: "dropdown-item",
+    href: "#",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15,
-      columnNumber: 25
-    }
-  }), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    tabindex: "-1",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 29
-    }
-  }, __jsx("i", {
-    class: "fa fa-bookmark",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16,
-      columnNumber: 55
-    }
-  }), " MY WISHLIST")), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    tabindex: "-1",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 29
-    }
-  }, __jsx("i", {
-    class: "fa fa-edit",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17,
-      columnNumber: 55
-    }
-  }), " MY REVIEWS")), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    tabindex: "-1",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18,
-      columnNumber: 29
-    }
-  }, __jsx("i", {
-    class: "fa fa-cog",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 18,
-      columnNumber: 55
-    }
-  }), " MY SETTINGS")), __jsx("li", {
-    class: "divider",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19,
-      columnNumber: 25
-    }
-  }), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    tabindex: "-1",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 29
-    }
-  }, __jsx("i", {
-    class: "glyphicon glyphicon-off",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 55
-    }
-  }), " LOGOUT")))), __jsx("li", {
-    class: "hidden-xs-down",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    href: "assets/login.html",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23,
-      columnNumber: 44
-    }
-  }, "LOGIN")), __jsx("li", {
-    class: "hidden-xs-down",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    href: "page-register-1.html",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24,
-      columnNumber: 44
-    }
-  }, "REGISTER"))), __jsx("ul", {
-    class: "top-links list-inline",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28,
-      columnNumber: 13
-    }
-  }, __jsx("li", {
-    class: "hidden-xs-down",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    href: "page-faq-1.html",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 29,
-      columnNumber: 44
-    }
-  }, "FAQ")), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 30,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    class: "dropdown-toggle no-text-underline",
-    "data-toggle": "dropdown",
-    href: "#",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
       columnNumber: 21
     }
-  }, __jsx("img", {
-    class: "flag-lang",
-    src: "assets/images/_smarty/flags/ca.png",
-    width: "16",
-    height: "11",
-    alt: "lang",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 31,
-      columnNumber: 98
-    }
-  }), " ENGLISH"), __jsx("ul", {
-    class: "dropdown-langs dropdown-menu",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32,
-      columnNumber: 21
-    }
-  }, __jsx("li", {
-    class: "divider",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33,
-      columnNumber: 25
-    }
-  }), __jsx("li", {
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 25
-    }
-  }, __jsx("a", {
-    tabindex: "-1",
+  }, "Another action"), __jsx("a", {
+    className: "dropdown-item",
     href: "#",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 29
+      lineNumber: 16,
+      columnNumber: 21
     }
-  }, __jsx("img", {
-    class: "flag-lang",
-    src: "assets/images/_smarty/flags/ca.png",
-    width: "16",
-    height: "11",
-    alt: "lang",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 55
-    }
-  }), " FRAN\xC7AIS"))))))));
+  }, "Something else here")))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Topbar);
